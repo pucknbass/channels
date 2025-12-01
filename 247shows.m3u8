@@ -1,27 +1,28 @@
 #EXTM3U
-#EXTINF:-1, Always sunny in Philly tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d1/It%27s_Always_Sunny_in_Philadelphia_season_16_poster.png" #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+#EXTINF:-1, Always sunny in Philly #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://stream-cdn-iad3.vaughnsoft.net/play/live_asip.flv
 
-#EXTINF:-1, Big Bang Theory tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/The_Big_Bang_Theory_%28Chuck_Lorre_Productions%29_official_logo.svg/1200px-The_Big_Bang_Theory_%28Chuck_Lorre_Productions%29_official_logo.svg.png" #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+#EXTINF:-1, Big Bang Theory #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://stream-cdn-iad3.vaughnsoft.net/play/live_tbbtz.flv
 
-#EXTINF:-1, Rick & Morty tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Rick_and_Morty.svg/2560px-Rick_and_Morty.svg.png" #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+#EXTINF:-1, Rick & Morty #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://stream-cdn-iad3.vaughnsoft.net/play/live_rickandmortimer.flv
 
-#EXTINF:-1, Retro Wrestling tvg-logo="https://github.com/pucknbass/logos-for-tv/blob/main/prowrestling.png?raw=true" #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+#EXTINF:-1, Retro Wrestling #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://stream-cdn-iad3.vaughnsoft.net/play/live_jetmalman.flv
 
-#EXTINF:-1, The Office tvg-logo="https://github.com/pucknbass/logos-for-tv/blob/main/TheOffice.png?raw=true" #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+#EXTINF:-1, The Office #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://stream-cdn-iad3.vaughnsoft.net/play/live_0ff1c3.flv
 
-#EXTINF:-1, Brooklyn Nine Nine tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Brooklyn_Nine-Nine_Logo.png" #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+#EXTINF:-1, Brooklyn Nine Nine #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://stream-cdn-iad3.vaughnsoft.net/play/live_brkln99.flv
 
-#EXTINF:-1, Community tvg-logo="https://github.com/pucknbass/logos-for-tv/blob/main/community.png?raw=true" #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+#EXTINF:-1, Community #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://stream-cdn-iad3.vaughnsoft.net/play/live_c0mmun1ty.flv
 
-#EXTINF:-1, Law & Order SVU tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Law_%26_Order-_Special_Victims_Unit_opening_title_card_logo.svg/2560px-Law_%26_Order-_Special_Victims_Unit_opening_title_card_logo.svg.png" #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
+#EXTINF:-1, Law & Order SVU #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:142.0) Gecko/20100101 Firefox/142.0
 https://stream-cdn-iad3.vaughnsoft.net/play/live_svu.flv
+
 
 
 
